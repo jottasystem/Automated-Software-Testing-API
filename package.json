@@ -1,0 +1,19 @@
+{
+  "name": "aula-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.3.0",
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "pactum": "^3.1.9"
+  }
+}
